@@ -1,0 +1,11 @@
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\bin\Debug\netcoreapp2.1\BeatGuard.UploadManager.deps.json
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\bin\Debug\netcoreapp2.1\BeatGuard.UploadManager.runtimeconfig.json
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\bin\Debug\netcoreapp2.1\BeatGuard.UploadManager.runtimeconfig.dev.json
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\bin\Debug\netcoreapp2.1\BeatGuard.UploadManager.dll
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.csprojAssemblyReference.cache
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.csproj.CoreCompileInputs.cache
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.RazorAssemblyInfo.cache
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.RazorAssemblyInfo.cs
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.AssemblyInfoInputs.cache
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.AssemblyInfo.cs
+C:\Users\Reece\source\repos\BeatGaurd.Release.Combined_Projects\BeatGuard.UploadManager\obj\Debug\netcoreapp2.1\BeatGuard.UploadManager.RazorTargetAssemblyInfo.cache
